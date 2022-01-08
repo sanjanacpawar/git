@@ -1,2 +1,7 @@
 1.Hello!!
+<<<<<<< HEAD
 2.Hiiiii....
+=======
+2.Hiiiii....
+3.Change for rebase on CR2.
+>>>>>>> CR2
